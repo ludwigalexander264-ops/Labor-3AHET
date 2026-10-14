@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE34D31A-15DC-4A3C-A234-07AE95413979}</ProjectGuid>
+    <ProjectGuid>{DF81AE06-4F10-4DC7-A6C0-C5950184B61D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_002_Werkzeugausgabe</RootNamespace>
-    <AssemblyName>002_Werkzeugausgabe</AssemblyName>
+    <RootNamespace>Personen_mit_Wohnadresse</RootNamespace>
+    <AssemblyName>Personen mit Wohnadresse</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Personen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

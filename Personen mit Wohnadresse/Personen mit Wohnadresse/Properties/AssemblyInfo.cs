@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("002_Werkzeugausgabe")]
+[assembly: AssemblyTitle("Personen mit Wohnadresse")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("itlab.htlwy.at")]
-[assembly: AssemblyProduct("002_Werkzeugausgabe")]
+[assembly: AssemblyProduct("Personen mit Wohnadresse")]
 [assembly: AssemblyCopyright("Copyright © itlab.htlwy.at 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("ce34d31a-15dc-4a3c-a234-07ae95413979")]
+[assembly: Guid("df81ae06-4f10-4dc7-a6c0-c5950184b61d")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //

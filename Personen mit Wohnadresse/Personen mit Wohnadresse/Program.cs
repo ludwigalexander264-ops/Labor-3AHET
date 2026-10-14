@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _002_Werkzeugausgabe
+namespace Personen_mit_Wohnadresse
 {
     internal class Program
     {
