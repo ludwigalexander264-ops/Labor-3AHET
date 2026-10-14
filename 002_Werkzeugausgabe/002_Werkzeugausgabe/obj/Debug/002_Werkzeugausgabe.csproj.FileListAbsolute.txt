@@ -1,0 +1,8 @@
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\bin\Debug\002_Werkzeugausgabe.exe.config
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\bin\Debug\002_Werkzeugausgabe.exe
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\bin\Debug\002_Werkzeugausgabe.pdb
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\obj\Debug\002_Werkzeugausgabe.csproj.AssemblyReference.cache
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\obj\Debug\002_Werkzeugausgabe.csproj.CoreCompileInputs.cache
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\obj\Debug\002_Werkzeugausgabe.exe
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\obj\Debug\002_Werkzeugausgabe.pdb
+H:\3AHET\Labor\Programieren\Labor-3AHET\002_Werkstatt verwaltung\002_Werkzeugausgabe\002_Werkzeugausgabe\obj\Debug\002_Werkzeugausgabe.exe.config
