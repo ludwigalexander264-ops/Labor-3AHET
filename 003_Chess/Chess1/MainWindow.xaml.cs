@@ -46,7 +46,17 @@ namespace Chess1
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            new ImageBrush();
+            Image image = new Image
+            {
+                Width = 30,
+                Height = 30,
+                Source = new BitmapImage(new Uri("bilder/Turm.png",UriKind.Relative))
+            };
+
+            Canvas c=(Canvas)SpielFeldVisualisierung.Children[3];
+            c.Children.Add(image);
+
+
 
         }
     }
